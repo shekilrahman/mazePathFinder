@@ -4,7 +4,7 @@ This project visualizes the generation of a maze using the Depth-First Search (D
 
 ## Live Demo
 
-You can see a live demo of the project [here](https://your-live-demo-link.com).
+You can see a live demo of the project [here](https://shekilrahman.github.io/mazePathFinder/).
 
 ## Features
 
